@@ -92,8 +92,4 @@ class APA102 {        // The class
       endFrame();
     };
 
-    void end(){
-      //spi_close(spifd);   // i dont know if its nesesary close on end of transmition
-    }
-
 };
