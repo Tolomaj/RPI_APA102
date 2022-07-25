@@ -20,7 +20,7 @@ void show();
 
 Example:
 ```
-#include "apa102new.h"
+#include "apa102.h"
 
 #define LED_COUNT 61
 APA102 leds;
